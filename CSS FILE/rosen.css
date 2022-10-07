@@ -1,0 +1,71 @@
+*{
+    background-color: chartreuse;
+}
+#rosen1{
+    background-color: blueviolet;
+    color: brown;
+    text-shadow: burlywood;
+}
+.rosen2{
+    background-color: chartreuse;
+    color: black;
+    font-size: medium;
+}
+.rosen3{
+    background-color: yellow;
+    color: blue;
+    text-shadow: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rosen4{
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 150px;
+}
+.container{
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+.header {
+    font-family: helvetica;
+    color: #337ab7;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    text-shadow: 6px 6px 6px #c9c6cc;
+    display: block;
+    font-weight: bolder;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    padding: 0 20px;
+    color: black;
+    transition: 0.3s ease;
+}
+
+.video{
+    height: 50%;
+    width: 40%;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.nav-item i:hover,
+.navbar-light .navbar-nav .nav-link.active
+.nav-item i.active{
+    color: rgb(80, 255, 124);
+}
+
+
+
+.nav-item i{
+    font-size: 1.2rem;
+    padding: 0 7px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.3s ease;
+
+}
+  
